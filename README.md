@@ -1,6 +1,6 @@
 # Webpack and React
 
-## Overview
+## Overviewz
 
 In this lesson, we'll unpack what **Webpack** brings to the table when developing React applications.
 
